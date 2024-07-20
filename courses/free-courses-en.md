@@ -134,6 +134,7 @@
 * [openHPI](https://open.hpi.de)
 * [openSAP](https://open.sap.com)
 * [Platzi](https://courses.platzi.com)
+* [Roadmap.sh](https://roadmap.sh)
 * [The Odin Project](https://www.theodinproject.com)
 * [Udacity](https://www.udacity.com)
 
@@ -413,7 +414,9 @@
 
 #### AWS
 
-* [AWS Certified Cloud Practitioner Course](https://www.youtube.com/playlist?list=PLt1SIbA8guuvfvUDVLpJepmbnYpOfYCIB) - Stephane Maarek
+* [AWS Certified Cloud Practitioner Course (2020-2023)](https://www.youtube.com/playlist?list=PLt1SIbA8guuvfvUDVLpJepmbnYpOfYCIB) - Stephane Maarek
+* [AWS Certified Cloud Practitioner Course (CLF-C02)(2024)](https://www.youtube.com/watch?v=NhDYbskXRgc) - Andrew Brown (FreeCodeCamp)
+* [AWS Cloud Complete Bootcamp Course](https://www.youtube.com/watch?v=zA8guDqfv40) - Andrew Brown (FreeCodeCamp)
 * [AWS Power Hour: Architecting](https://pages.awscloud.com/traincert-twitch-power-hour-architecting.html?saa=sec&sec=prep) - AWS
 * [AWS Tutorial For Beginners](https://www.youtube.com/playlist?list=PLEiEAq2VkUULlNtIFhEQHo8gacvme35rz) - Simplilearn
 * [AWS Zero to Hero](https://www.youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze) - Abhishek Veeramalla
@@ -876,7 +879,7 @@
 * [CS50 2019 - iOS Track](https://www.youtube.com/playlist?list=PLhQjrBD2T3810ZX79Xrgj8X382QaWbk_J) - David J. Malan (Harvard OpenCourseWare)
 * [Developing iOS 11 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316)
 * [Get Started with iOS Development (iOS 13, Swift 5)](https://www.youtube.com/playlist?list=PLSzsOkUDsvdu5Mm67aBYs2YPu2OM4mFzt) - London App Brewery
-* [How to Make an App in 8 Days](https://www.youtube.com/playlist?list=PLMRqhzcHGw1Y5Cluhf7pKRNZtKaA3Q4kg) - CodeWithChris 
+* [How to Make an App in 8 Days](https://www.youtube.com/playlist?list=PLMRqhzcHGw1Y5Cluhf7pKRNZtKaA3Q4kg) - CodeWithChris
 * [Ray Wenderlich iOS Tutorial](https://www.raywenderlich.com/category/ios)
 * [SwiftUI Tutorials](https://www.youtube.com/playlist?list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z) - Sean Allen
 * [SwiftUI Tutorials for Beginners](https://www.youtube.com/playlist?list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI) - CodeWithChris
@@ -1058,6 +1061,7 @@
 
 * [A Beginner's Guide to Node.js](https://www.udemy.com/course/a-beginners-guide-to-nodejs) - DSC VIT Powered by Google Developers, Md Hishaam Akhtar (Udemy)
 * [Beginner's Series to: Node.js](https://www.youtube.com/playlist?list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg) - Microsoft Developer
+* [Build JavaScript applications with Node.js](https://learn.microsoft.com/en-us/training/paths/build-javascript-applications-nodejs) - Microsoft Learn
 * [Building a RESTful API with Node.js](https://www.youtube.com/playlist?list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q) - Academind
 * [Data brokering with Node.js: Process data at the speed of technology](https://heynode.com) - Osio Labs Inc. *(signup requested, not required)*
 * [Express JS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE) - Brad Traversy, Traversy Media
@@ -1094,6 +1098,7 @@
 * [React JS Tutorial - Basic to Advance (2023)](https://www.youtube.com/watch?v=cd3P3yXyx30) - Nerd's lesson
 * [React Patterns for web apps](https://www.patterns.dev/book/) - Lydia Hallie, Addy Osmani
 * [React Router 6 – Tutorial for Beginners](https://www.youtube.com/watch?v=59IXY5IDrBA) - John Smilga (freeCodeCamp)
+* [React State Management Intermediate JavaScript Course](https://www.youtube.com/watch?v=-bEzt5ISACA) - Jack Herrington (freeCodeCamp)
 * [React State Management using Context API (useContext + useReducer Hooks = Magic)](https://www.youtube.com/watch?v=zxP4oGejqpU) - The Full Stack Junkie
 * [React Testing Library Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ) - The Net Ninja
 * [React Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC) - freeCodeCamp
@@ -1289,6 +1294,7 @@
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
 * [Statistics for Applications](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/) - MIT OpenCourseWare
 * [Understand Machine Learning Engineering by Building Projects](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) - Alexey Grigorev
+* [Understanding AI from Scratch – Neural Networks Course](https://www.youtube.com/watch?v=VgzHT9quo5c) - Radu (FreeCodeCamp)
 
 
 ### Markdown

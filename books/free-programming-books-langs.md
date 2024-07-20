@@ -54,7 +54,6 @@ Books on general-purpose programming that don't focus on a specific language are
     * [Ecto](#ecto)
     * [Phoenix](#phoenix)
 * [Elm](#elm)
-* [Embedded Systems](#embedded-systems)
 * [Erlang](#erlang)
 * [F#](#f-sharp)
 * [Firefox OS](#firefox-os)
@@ -544,7 +543,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Modern C++ Tutorial: C++11/14/17/20 On the Fly](https://www.changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf) - Changkun Ou (PDF)
 * [More C++ Idioms](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms) - Sumant Tambe, et al. (WikiBooks)
 * [Open Data Structures (In C++)](http://opendatastructures.org/ods-cpp.pdf) - Pat Morin (PDF)
-* [Programming Fundamentals - A Modular Structured Approach using C++](https://learning.hccs.edu/faculty/ken.busbee/programming-fundamentals-a-modular-structured-approach-using-c) - Kenneth Leroy Busbee (PDF)
+* [Programming Fundamentals - A Modular Structured Approach using C++](https://archive.org/details/cnx-org-col10621/mode/1up) - Kenneth Leroy Busbee (PDF)
 * [Software Design Using C++](http://cis.stvincent.edu/html/tutorials/swd/) - Br. David Carlson, Br. Isidore Minerd
 * [Software optimization resources](http://www.agner.org/optimize/) - Agner Fog
 * [The Boost C++ libraries](http://theboostcpplibraries.com) - Boris Schäling (HTML)
@@ -718,16 +717,6 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [Phoenix Framework Guide](https://hexdocs.pm/phoenix/overview.html) (HTML)
 * [Versioned APIs with Phoenix](https://web.archive.org/web/20210309052043/https://elviovicosa.com/freebies/versioned-apis-with-phoenix-by-elvio-vicosa.pdf) - Elvio Vicosa (PDF) *(:card_file_box: archived)*
-
-
-### Embedded Systems
-
-* [Control and Embedded Systems](http://www.learn-c.com) (HTML)
-* [Discovering the STM32 Microcontroller](http://www.cs.indiana.edu/~geobrown/book.pdf) (PDF)
-* [First Steps with Embedded Systems](https://www.phaedsys.com/principals/bytecraft/bytecraftdata/bcfirststeps.pdf) - Byte Craft Limited (PDF)
-* [Introduction to Embedded Systems, Second Edition](https://ptolemy.berkeley.edu/books/leeseshia/releases/LeeSeshia_DigitalV2_2.pdf) - Edward Ashford Lee, Sanjit Arunkumar Seshia (PDF)
-* [Introduction to Microcontrollers](http://www.embeddedrelated.com/showarticle/453.php) (HTML)
-* [Mastering the FreeRTOS Real Time Kernel - a Hands On Tutorial Guide](https://freertos.org/Documentation/RTOS_book.html) - freertos.org ([PDF](https://freertos.org/fr-content-src/uploads/2018/07/161204_Mastering_the_FreeRTOS_Real_Time_Kernel-A_Hands-On_Tutorial_Guide.pdf))
 
 
 ### Erlang
@@ -1068,7 +1057,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Java Application Development on Linux (2005)](https://ptgmedia.pearsoncmg.com/images/013143697X/downloads/013143697X_book.pdf) - Carl Albing, Michael Schwarz (PDF)
 * [Java, Java, Java Object-Oriented Problem Solving](https://archive.org/details/JavaJavaJavaObject-orientedProblemSolving/page/n0) - R. Morelli, R.Walde
 * [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/) - James Gosling, et al.
-* [Java Masters](https://javamasters.io/servlets) - Java Masters (HTML)
 * [Java Notes for Professionals](http://goalkicker.com/JavaBook/) - Compiled from StackOverflow documentation (PDF)
 * [Java Programming](https://en.wikibooks.org/wiki/Java_Programming) - Wikibooks
 * [Java Programming for Kids](https://yfain.github.io/Java4Kids/) - Yakov Fain
@@ -1161,6 +1149,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [JavaScript ES6 and beyond](https://github.com/AlbertoMontalesi/JavaScript-es6-and-beyond-ebook) - Alberto Montalesi (PDF, epub)
 * [JavaScript For Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - Microsoft
 * [JavaScript For Cats](http://jsforcats.com) - Maxwell Ogden (HTML)
+* [JavaScript for Data Science](https://third-bit.com/js4ds/) - Maya Gans, Toby Hodges, Greg Wilson (HTML)
 * [JavaScript for Impatient Programmers (ES2020 edition)](https://exploringjs.com/impatient-js/toc.html) - Axel Rauschmayer (HTML)
 * [JavaScript for Impatient Programmers (ES2022 edition)](https://exploringjs.com/impatient-js/) - Axel Rauschmayer (HTML)
 * [JavaScript from ES5 to ESNext](https://flaviocopes.com/page/es5-to-esnext/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
@@ -1190,6 +1179,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Professor Frisby’s Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Brian Lonsdorf (HTML)
 * [Robust Client-Side JavaScript](https://molily.de/robust-javascript/) - Matthias Schäfer (HTML, EPUB)
 * [Single page apps in depth](http://singlepageappbook.com) - Mixu (HTML)
+* [Software Design by Example: A Tool-Based Introduction with JavaScript](https://third-bit.com/sdxjs/) - Greg Wilson (HTML)
 * [Speaking JavaScript](https://exploringjs.com/es5/) - Axel Rauschmayer
 * [Standard ECMA-262 ECMAScript 2016 Language Specification](https://www.ecma-international.org/publications/standards/Ecma-262.htm) - Ecma International (HTML,PDF)
 * [The Code Challenge Book](https://s3.amazonaws.com/coderbytestaticimages/CoderbyteEbook.pdf) - Daniel Borowski (PDF)
@@ -1206,7 +1196,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### AngularJS
 
-> :information_source: See also &#8230; [Angular](#angular)
+> :information_source: (deprecated since 2022) see [Angular](#angular)
 
 * [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md) - John Papa (HTML)
 * [Angular Testing Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/angular-testing-succinctly) - Joseph D. Booth (HTML)
@@ -2052,10 +2042,12 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) - Qingkai Kong, Timmy Siauw, Alexandre Bayen (3.7)
 * [Python Programming Exercises, Gently Explained](https://inventwithpython.com/PythonProgrammingExercisesGentlyExplained.pdf) - Al Sweigart (PDF)
 * [Python Tutorial](https://www.tutorialspoint.com/python/) - Tutorials Point (HTML, PDF)
+* [Research Software Engineering with Python](https://merely-useful.tech/py-rse/) - Damien Irving, Kate Hertweck, Luke Johnston, Joel Ostblom, Charlotte Wickham, Greg Wilson (HTML)
 * [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book) - Nicolas P. Rougier (PDF)
 * [Scipy Lecture Notes](http://scipy-lectures.github.io)
 * [SICP in Python](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/) (3.2)
 * [Slither into Python: An introduction to Python for beginners](https://web.archive.org/web/20210411065902/https://www.slitherintopython.com/) (3.7) *(:card_file_box: archived)*
+* [Software Design by Example: A Tool-Based Introduction with Python](https://third-bit.com/sdxpy/) - Greg Wilson (HTML)
 * [Supporting Python 3: An In-Depth Guide](http://python3porting.com) (2.6 - 2.x & 3.1 - 3.x)
 * [Test-Driven Web Development with Python: Obey the Testing Goat! using Django, Selenium and JavaScript](http://www.obeythetestinggoat.com/pages/book.html) - Harry J.W. Percival (HTML) *(3.3 - 3.x)*
 * [Text Processing in Python](http://gnosis.cx/TPiP/) - David Mertz (2.3 - 2.x)
@@ -2306,6 +2298,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro) - Steve J Donovan
 * [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book)
 * [Easy Rust](https://dhghomon.github.io/easy_rust/) - David McLeod (HTML, PDF)
+* [Effective Rust](https://www.lurklurk.org/effective-rust) - David Drysdale (HTML, PDF)
 * [From JavaScript to Rust ebook](https://github.com/wasmflow/node-to-rust/raw/HEAD/from-javascript-to-rust.pdf) - Jarrod Overson (PDF)
 * [Guide to Rustc Development](https://rustc-dev-guide.rust-lang.org)
 * [Learn Rust in Y minutes](https://learnxinyminutes.com/docs/rust/)
@@ -2314,6 +2307,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Rust Atomics and Locks](https://marabos.nl/atomics) - Mara Bos (HTML)
 * [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example)
 * [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook)
+* [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
 * [Rust for Rubyists](https://web.archive.org/web/20190520171322/http://www.rustforrubyists.com/book) - Steve Klabnik *(:card_file_box: archived)*
 * [Rust For Systems Programmers](https://github.com/nrc/r4cppp) - Nick Cameron
 * [The Embedded Rust Book](https://docs.rust-embedded.org/book/intro/index.html)
