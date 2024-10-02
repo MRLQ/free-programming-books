@@ -47,7 +47,7 @@
 ### JavaScript
 
 * [জাভাস্ক্রিপ্ট ল্যাঙ্গুয়েজের এর ব্যাসিক, অ্যাডভান্স](https://js.howtocode.dev) - Nuhil Mehdi (howtocode.dev)
-* [হাতেকলমে জাভাস্ক্রিপ্ট: সম্পূর্ণ বাংলায় হাতেকলমে জাভাস্ক্রিপ্ট শিখুন](https://zonayed.js.org) - Zonayed Ahmed (HTML)
+* [হাতেকলমে জাভাস্ক্রিপ্ট: সম্পূর্ণ বাংলায় হাতেকলমে জাভাস্ক্রিপ্ট শিখুন](https://with.zonayed.me/js-basic/) - Zonayed Ahmed (HTML)  
 
 
 ### Machine Learning
@@ -62,6 +62,11 @@
 * [কেমনে করে সিস্টেম ডিজাইন?](https://imtiaz-hossain-emu.gitbook.io/system-design/) - Imtiaz Hossain Emu
 * [ডেভসংকেত: বাংলা চিটশিটের ভান্ডার](https://devsonket.com) - Devsonket Team
 * [SL3 Framework - Code For Brain](https://web.archive.org/web/20201024204437/https://sl3.app) - Stack Learners *(:card_file_box: archived)*
+
+
+### Problem Sets
+
+* [৫২ টি প্রোগ্রামিং সমস্যা](http://cpbook.subeen.com/p/blog-page_11.html) - Tamim Shahriar Subeen (HTML)
 
 
 ### Python
